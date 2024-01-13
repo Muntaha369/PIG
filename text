@@ -1,0 +1,18 @@
+The Pig Game, also known as "Pass the Pigs," is a simple dice game that involves rolling a pair of six-sided dice. The objective of the game is to accumulate points by rolling dice, but the player must be careful not to roll a specific value that results in losing all the accumulated points for that turn.
+
+Here are the basic rules of the Pig Game:
+
+Two players take turns rolling a pair of standard six-sided dice.
+On a player's turn, they can choose to roll the dice multiple times to accumulate points.
+After each roll:
+If a player rolls a 1 on either die, they lose all points accumulated during that turn, and it becomes the next player's turn.
+If a player rolls a 1 on both dice, they lose all their total points (not just for that turn) and it becomes the next player's turn.
+If a player rolls a 2 through 6 on both dice, they add the sum of the dice to their turn total.
+The player can choose to "hold" at any time during their turn, and their turn total is added to their total score. It then becomes the next player's turn.
+The first player to reach a predetermined score (often 100 points) wins the game.
+The game introduces an element of risk and strategy, as players must decide when to keep rolling to accumulate more points and when to stop and "hold" to secure their points for that turn. The name "Pig" likely comes from the idea that rolling a 1 can be considered unlucky, and the player "pigs out" by losing their points.
+
+
+
+
+
