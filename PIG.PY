@@ -1,3 +1,4 @@
+import random
 while True:
     try:
      players = int(input("Enter the no. of players: "))
@@ -8,7 +9,6 @@ while True:
     except ValueError:
        print("enter only numbers")    
 
-import random
 def roll():
     print(random.randrange(1,12))
 roll()
